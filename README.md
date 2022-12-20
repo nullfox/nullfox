@@ -6,13 +6,10 @@
 ### <div align="center">I'm Ben, a San Francisco based full-stack engineer focused on Typescript, Node & React.</div>  
   
 
-#### <div align="center">I'm currently accepting contract work - please reach out [here](mailto:work@nullfox.com) to inquire!</div>  
+#### <div align="center">I'm currently accepting contract work - please reach out [here](mailto:work@nullfox.com) to inquire!</div> 
   
 
-- 🔭 I’m currently working on [Champify](https://champify.io) to help sales orgs unlock a new pipeline channel  
-  
-
-- 🌱 I’m currently learning Apex  
+- 🌱 I’m currently learning Salesforce Apex
   
 
 - ❓ Ask me about anything related to Typescript, Node, React & AWS  
