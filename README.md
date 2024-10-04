@@ -9,7 +9,7 @@
 #### <div align="center">I'm currently accepting contract work - please reach out [here](mailto:work@nullfox.com) to inquire!</div> 
   
 
-- 🌱 I’m currently learning Salesforce Apex
+- 🌱 I’m currently focusing on AI ops
   
 
 - ❓ Ask me about anything related to Typescript, Node, React & AWS  
