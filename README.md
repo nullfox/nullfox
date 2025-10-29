@@ -1,114 +1,62 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+### 👋 Hey, I'm Ben Fox
+Full-stack engineer & entrepreneur building pragmatic, design-driven products in **TypeScript, React Native, and GraphQL**.
 
-### <div align="center">I'm Ben, a San Francisco based full-stack engineer focused on Typescript, Node & React.</div>  
-  
+I build tools that automate boring tasks, surface insight from data, and make technology feel human.  
+Currently focused on micro-SaaS products and AI-powered personal systems.
 
-#### <div align="center">I'm currently accepting contract work - please reach out [here](mailto:work@nullfox.com) to inquire!</div> 
-  
+---
 
-- 🌱 I’m currently focusing on AI ops
-  
+### 🚀 Live Product
+#### 🧾 [PayPrompt](https://payprompt.app)
+Automated invoice reminders that integrate with QuickBooks and Stripe.  
+Built end-to-end: TypeScript · GraphQL · Prisma · Postgres · AWS SES · Next.js  
+→ Syncs overdue invoices, sends branded reminders, and handles OAuth token refresh seamlessly.
 
-- ❓ Ask me about anything related to Typescript, Node, React & AWS  
-  
+---
 
-<br/>  
+### 🧠 In Development
+#### 🩺 VitalTrack *(private alpha)*
+AI health tracker that turns daily natural-language check-ins into structured food, supplement, and symptom logs.  
+Focus: LLM parsing + pgvector similarity search for meal recognition.
 
+#### 🖋️ Inku *(paused MVP)*
+Tattoo artist booking & guest-spot management platform.  
+Focus: React Native app, GraphQL API, multi-tenant scheduling, and design system for creative professionals.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+### 💰 Crypto & Data Experiments
+- **Solana Tx Decoder** – utility for parsing on-chain Raydium swap transactions  
+- **DeFi Portfolio Script** – CLI to fetch wallet positions and token prices via public RPC endpoints  
+- **Contract Event Logger** – lightweight listener for swap/mint events using WebSocket subscriptions  
 
+*(These are small, focused repos — practical experiments in parsing binary data and financial APIs.)*
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### 🧰 Utilities & Starters
+- **SoloStack** – opinionated full-stack TypeScript starter (Expo + Prisma + GraphQL Yoga)  
+- **AI Trading Agent** – Node.js sentiment & options analyzer for SPY/QQQ trades  
+- **RN Vision Utils** – React Native Vision + Skia overlays and frame processors  
 
+---
 
+### 🧭 Now
+- Growing **PayPrompt** publicly  
+- Exploring **AI + data pipelines** for health tracking  
+- Sharing build notes and architecture write-ups → [nullfox.com](nullfox.com)
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### ⚙️ Stack & Tools
+TypeScript · React / React Native · GraphQL (Pothos + Yoga) · Prisma · PostgreSQL  
+AWS (Lambda, SQS, SES, RDS, ECS) · EAS / Expo · Tailwind · Next.js · Node.js · Terraform
 
+---
 
+### ☕ About Me
+California-based engineer with a background in startups, data systems, and design.  
+Outside of code: motorcycles, photography, and functional design.  
+Always open to collaborations or early-stage tech chats — [LinkedIn](https://www.linkedin.com/in/nullfox) • [nullfox.com](nullfox.com)
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/nullfox" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/thenullfox" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nullfox" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nulfox" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nullfox&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nullfox&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/nullfox" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
