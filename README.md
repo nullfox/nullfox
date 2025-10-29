@@ -7,7 +7,7 @@ Currently focused on micro-SaaS products and AI-powered personal systems.
 ---
 
 ### 🚀 Live Product
-#### 🧾 [PayPrompt](https://payprompt.app)
+#### 🧾 [PayPrompt](https://payprompt.me)
 Automated invoice reminders that integrate with QuickBooks and Stripe.  
 Built end-to-end: TypeScript · GraphQL · Prisma · Postgres · AWS SES · Next.js  
 → Syncs overdue invoices, sends branded reminders, and handles OAuth token refresh seamlessly.
