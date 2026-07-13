@@ -14,6 +14,21 @@ Built end-to-end: TypeScript · GraphQL · Prisma · Postgres · AWS SES · Next
 
 ---
 
+### 🧩 Selected Engineering
+Sanitized excerpts from private production systems — the subsystems worth reading on their own, with the domain edge stripped out.
+
+#### 🔌 [chart-extraction-techniques](https://github.com/nullfox/chart-extraction-techniques)
+Two techniques from a browser-based market-data tool, extracted and sanitized.  
+Built in: TypeScript · MV3 browser extensions · applied LLM + vision extraction  
+→ Reads a web app's own WebSocket feed from the main world, and pulls trustworthy structured data out of an LLM by having a deterministic solver check the model's work.
+
+#### 💸 [aluro-selected-systems](https://github.com/nullfox/aluro-selected-systems)
+Two subsystems from a merchant-of-record payments platform, extracted and sanitized.  
+Built in: TypeScript · Ethereum / viem · AWS KMS · Stripe / PayPal rails  
+→ Fuzzy fiat-to-invoice payment matching with transposition detection, and KMS-signed USDC settlement where the private key never leaves the HSM.
+
+---
+
 ### 🧠 In Development
 #### 🩺 VitalTrack *(private alpha)*
 AI health tracker that turns daily natural-language check-ins into structured food, supplement, and symptom logs.  
